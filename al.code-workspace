@@ -4,6 +4,9 @@
       "path": "MS-BearApp"
     },
     {
+      "path": "MS-BearApp.Test"
+    },
+    {
       "path": ".AL-Go"
     }
   ],
